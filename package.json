@@ -1,5 +1,5 @@
 {
-  "name": "node-await-mongo",
+  "name": "await-mongo",
   "version": "1.0.0",
   "description": "A small script to wait for a Mongo instance to come online",
   "main": "index.js",

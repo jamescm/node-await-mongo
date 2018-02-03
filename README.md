@@ -8,7 +8,7 @@ I didn't see anything that did what I wanted already. I wanted a promise-based t
 ## Installation
 
 ~~~
-npm install wait-for-mongo
+npm install await-mongo
 ~~~
 
 ## Usage
