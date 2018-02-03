@@ -1,0 +1,19 @@
+{
+  "name": "node-await-mongo",
+  "version": "1.0.0",
+  "description": "A small script to wait for a Mongo instance to come online",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamescm/node-await-mongo.git"
+  },
+  "author": "Cory James",
+  "email" : "james.cory.m@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.0.2"
+  }
+}
