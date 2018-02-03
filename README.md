@@ -18,7 +18,7 @@ var wait = require('await-mongo')
 
 wait('mongodb://localhost:27017', {
   timeout: 1000, // time(ms) between tries
-  try: 5         // times to try connection
+  tries: 5       // times to try connection
   mongo: {}      // options to pass to Mongo
 }).then(() => {
   // do stuff

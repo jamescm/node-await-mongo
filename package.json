@@ -1,6 +1,6 @@
 {
   "name": "await-mongo",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A small script to wait for a Mongo instance to come online",
   "main": "index.js",
   "scripts": {
